@@ -108,3 +108,6 @@ The output bundle will be created inside the `/dist` directory.
 - **Icons**: Lucide React
 - **Animations**: Framer Motion
 - **Fonts**: Inter (body copy), Outfit (headings and branding)
+
+- <img width="959" height="413" alt="image" src="https://github.com/user-attachments/assets/8b9722fa-b7a7-48c5-88e1-04deab166878" />
+
